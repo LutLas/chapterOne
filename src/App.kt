@@ -1,11 +1,14 @@
 fun main (args: Array<String>){
     println("Pow!")
 
-    var x =3
+    /*var x =3*/
     /*val name = "Cordovan"*/
-    /*var store:Long = x.toLong()*/
-    x *= 10
-    println("x is $x")
+    /*var store = x*/
+    /*x *= 10
+    var a = 123.956
+
+    var b: Int = a.toInt()
+    println("b is $b")
 
     for (i in 0..9){
                 x += 1
@@ -23,7 +26,7 @@ fun main (args: Array<String>){
         }else{
             println("If Statement: x isn't 20.")
         }
-    }
+    }*/
 
     /*if (name.equals("Cormoran")){
         println("$name Strike")
